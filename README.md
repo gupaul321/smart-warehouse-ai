@@ -13,7 +13,7 @@
 | **목표** | 창고 현재 상태 데이터로 30분 후 딜레이 예측 |
 | **대회** | Dacon 스마트 창고 출고 지연 예측 AI 경진대회 |
 | **평가지표** | MAE (Mean Absolute Error) |
-| **팀원** | gupaul321, gupaul1 |
+| **팀원** | gupaul321, Pause000 |
 
 ---
 
